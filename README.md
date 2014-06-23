@@ -1,5 +1,6 @@
 google-homepage
 ===============
+http://www.theodinproject.com/
 # adds all files that are in your current directory and which you've
 # recently changed to the "staging area" (ie. they're "ready to commit")
 $ git add -A
